@@ -3,29 +3,14 @@
 # Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks
 
 [![preprint](https://img.shields.io/badge/arXiv-2503.23751-B31B1B)](https://arxiv.org/abs/2503.23751)
-
-
-
-[![Venue:ICLR 2024](https://img.shields.io/badge/Venue-ICLR%202024%20(Spotlight)-blue)](https://iclr.cc/virtual/2024/poster/18130)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://github.com/OPTML-Group/Unlearn-Saliency?tab=MIT-1-ov-file)
-[![GitHub top language](https://img.shields.io/github/languages/top/OPTML-Group/Unlearn-Saliency)](https://github.com/OPTML-Group/Unlearn-Saliency)
-[![GitHub repo size](https://img.shields.io/github/repo-size/OPTML-Group/Unlearn-Saliency)](https://github.com/OPTML-Group/Unlearn-Saliency)
-[![GitHub stars](https://img.shields.io/github/stars/OPTML-Group/Unlearn-Saliency)](https://github.com/OPTML-Group/Unlearn-Saliency)
+[![GitHub top language](https://img.shields.io/github/languages/top/shaaaaron/DELETE)](https://github.com/shaaaaron/DELETE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/shaaaaron/DELETE)](https://github.com/shaaaaron/DELETE)
 </div>
 
 
 
 This is the official code repository for the CVPR 2025 Highlight paper [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751).
 
-<table align="center">
-  <tr>
-    <td align="center"> 
-      <img src="Images/transition_new.gif" alt="Examples" style="width: 700px;"/> 
-      <br>
-      <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1:</strong> Example comparison of pre/after unlearning by SalUn. <br/> (Left) Concept "Nudity"; (Middle) Object "Dog"; (Right) Style "Sketch".</em>
-    </td>
-  </tr>
-</table>
 
 
 ## Abstract
