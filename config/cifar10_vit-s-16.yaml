@@ -1,0 +1,8 @@
+pretrain_epoch: 150
+pretrain_lr: 0.1
+batch_size: 128
+
+unlearn_epoch: 20
+unlearn_rate: 5e-5
+
+permutation_map: [4, 3, 5, 9, 8, 1, 0, 7, 6, 2]

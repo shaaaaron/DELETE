@@ -1,0 +1,35 @@
+exps/
+*.sh
+*.pdf
+*.pkl
+
+可视化结果/
+# 其他项目
+_测试复现代码存档/selective-synaptic-dampening/
+_测试复现代码存档/mmdetection/
+_测试复现代码存档/pytorch-cifar100/
+_测试复现代码存档/l2ul/
+_测试复现代码存档/badnets-pytorch/
+_测试复现代码存档/BackdoorBench/
+_测试复现代码存档/LAF/
+_测试复现代码存档/_trash_can/
+
+backdoor_unlearning/*
+!backdoor_unlearning/main.py
+!backdoor_unlearning/unlearning_backdoor.py
+!backdoor_unlearning/gen_backdoor.py
+!backdoor_unlearning/log_utils.py
+!backdoor_unlearning/run.sh
+
+# PyInstaller
+__pycache__/
+
+# img
+*.jpg
+*.png
+*.jpeg
+
+# PyTorch
+*.pt
+*.pth
+*.ckpt

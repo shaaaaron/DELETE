@@ -1,0 +1,12 @@
+batch_size: 64
+
+pretrain_epoch: 80
+pretrain_lr: 0.01
+
+finetune_epoch: 40
+finetune_lr: 0.01
+
+unlearn_epoch: 20
+unlearn_rate: 5e-5
+
+permutation_map: [4, 3, 5, 9, 8, 1, 0, 7, 6, 2]

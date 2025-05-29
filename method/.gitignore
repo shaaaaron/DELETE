@@ -1,0 +1,7 @@
+__pycache__/
+
+checkpoints/
+*.pt
+*.pth
+/logs
+pytorch-cifar100/
