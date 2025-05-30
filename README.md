@@ -5,6 +5,11 @@
 [![preprint](https://img.shields.io/badge/arXiv-2503.23751-B31B1B)](https://arxiv.org/abs/2503.23751)
 [![GitHub top language](https://img.shields.io/github/languages/top/shaaaaron/DELETE)](https://github.com/shaaaaron/DELETE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/shaaaaron/DELETE)](https://github.com/shaaaaron/DELETE)
+<figure>
+  <img src="./assets/badage.png" alt="CVPR Highlight paper" width="40" height="40">
+  <!-- <figcaption><strong>CVPR Highlight paper</strong></figcaption> -->
+  <figcaption style="font-weight: bold; margin-top: 0;">CVPR Highlight paper</figcaption>
+</figure>
 </div>
 
 
