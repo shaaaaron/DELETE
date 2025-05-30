@@ -9,7 +9,7 @@
 
 This is the official code repository for the **CVPR 2025 Highlight paper** <img src="./assets/badage.png" width="40" style="vertical-align: text-bottom;"> [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751).
 
-
+![GitHub repo size](./assets/CVPR_POSTER.png)
 
 ## Abstract
 
