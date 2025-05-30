@@ -11,7 +11,7 @@ __pycache__/
 *.jpg
 *.png
 *.jpeg
-!assets/badage.png
+!assets/*
 
 # PyTorch
 *.pt
