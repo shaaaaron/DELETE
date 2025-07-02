@@ -24,10 +24,11 @@ Without access to the remaining data or intervention (*i.e.*, used in some works
 
 ## Cite This Work
 ```
-@article{zhou2025decoupled,
+@inproceedings{zhou2025decoupled,
   title={Decoupled distillation to erase: A general unlearning method for any class-centric tasks},
   author={Zhou, Yu and Zheng, Dian and Mo, Qijie and Lu, Renjie and Lin, Kun-Yu and Zheng, Wei-Shi},
-  journal={arXiv preprint arXiv:2503.23751},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={20350--20359},
   year={2025}
 }
 ```
