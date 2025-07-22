@@ -33,7 +33,7 @@ if __name__ == '__main__':
                                  ], help='unlearning method')
     parser.add_argument('--dataset_name', type=str, default='cifar10', choices=['cifar10', "cifar100", "tiny_imagenet", "vggface"], help='dataset name')
     # parser.add_argument('--dataset_name', type=str, default='cifar10', choices=['cifar10', "cifar100", "tiny_imagenet"], help='dataset name')
-    parser.add_argument('--model_name', type=str, default='resnet18',  choices=['resnet18', "my-resnet18", "vgg16", "vit-s-16", "swin-t"], help='model name')
+    parser.add_argument('--model_name', type=str, default='resnet18',  choices=['resnet18', "vgg16", "vit-s-16", "swin-t"], help='model name')
     parser.add_argument('--exps_dir', type=str, default="~/boundary_unlearn/classification/exps", help='experiments directory')
     ##########################################################################################################
 
