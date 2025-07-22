@@ -25,7 +25,9 @@ Without access to the remaining data or intervention (*i.e.*, used in some works
 
 This code has no special environment requirements.
 
-For running experiments on CIFAR-10, please refer to `scripts.sh`. Most methods are configured with their recommended (or optimal) settings. If the performance is not as expected, you may need to adjust the parameters as detailed in the Supplementary Material.
+For running experiments on CIFAR-10, please refer to `scripts.sh`. 
+
+Most methods are configured with their recommended (or optimal) settings. If the performance is not as expected, you may need to adjust the parameters as detailed in the Supplementary Material.
 
 ## Cite This Work
 ```
