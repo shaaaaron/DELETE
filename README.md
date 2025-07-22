@@ -21,6 +21,11 @@ In this work, we present **DE**coup**LE**d Distillation **T**o **E**rase (**DELE
 To address it, we refine the retention term using "dark knowledge" and propose a mask distillation unlearning method. By applying a mask to separate forgetting logits from retention logits, our approach optimizes both the forgetting and refined retention components simultaneously, retaining knowledge of the remaining classes while ensuring thorough forgetting of the target class.
 Without access to the remaining data or intervention (*i.e.*, used in some works), we achieve state-of-the-art performance across various benchmarks. What's more, DELETE is a general solution that can be applied to various downstream tasks, including face recognition, backdoor defense, and semantic segmentation with great performance.
 
+## Run the Code
+
+This code has no special environment requirements.
+
+For running experiments on CIFAR-10, please refer to `scripts.sh`. Most methods are configured with their recommended (or optimal) settings. If the performance is not as expected, you may need to adjust the parameters as detailed in the Supplementary Material.
 
 ## Cite This Work
 ```
