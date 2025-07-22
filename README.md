@@ -27,7 +27,9 @@ This code has no special environment requirements.
 
 For running experiments on CIFAR-10, please refer to `scripts.sh`. 
 
-Most methods are configured with their recommended (or optimal) settings. If the performance is not as expected, you may need to adjust the parameters as detailed in the Supplementary Material.
+In the script, Most methods are configured with their recommended (or optimal) settings. If the performance is not as expected, you may need to adjust the parameters as detailed in the Supplementary Material.
+
+> The `unlearn_rate` in `config` is just as default setting. Generally, different methods may require different parameter settings.
 
 ## Cite This Work
 ```
